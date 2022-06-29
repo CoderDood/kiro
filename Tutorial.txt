@@ -1,0 +1,1 @@
+This is the tutorial on how to use kiro. It is something that makes websites much easier. This is made on a raspberry pi and is meant for Raspberry Pi.
